@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.18.2",
+    "loader": "forge",
+    "loaderVersion": "40.2.17"
+  },
+  "files": {
+    "mods": "mods.json",
+    "config": "config.json",
+    "resourcepacks": "resourcepacks.json"
+  },
+  "release": {
+    "tag": "xenova-principal-v1.0.0"
+  },
+  "window": {
+    "title": "Xenova Principal - Xenova Client"
+  }
+}
